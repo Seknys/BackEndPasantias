@@ -102,6 +102,9 @@ Gracias👍.
 ###### Aspectos importantes.
 En el caso de querer revisar las funciones principales y sus respectivas funciones con comentarios porfavor acceder a las siguientes rutas en las carpetas del proyecto.
 
-**App/Http/Controllers/Api/ApiController.php** Programación de todos los endpoint y de la api (Controlador)
-**Routes/api.php** Las rutas que se utilizan para acceder a las diferentes apis (Vista)
-**Resources/Views** Todas las visatas generadas para el proyecto (HTML)
+**App/Http/Controllers/Api/ApiController.php** Programación de todos los endpoint y de la api (Controlador).
+
+**Routes/api.php** Las rutas que se utilizan para acceder a las diferentes apis (Vista).
+
+**Resources/Views** Todas las visatas generadas para el proyecto (HTML).
+
