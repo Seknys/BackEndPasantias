@@ -1,0 +1,38 @@
+{
+  "RbknRQ3to0PMts0QU6QWMIprjqL2" : {
+    "address" : "address111",
+    "email" : "persona1@iqbit.ec",
+    "id" : "RbknRQ3to0PMts0QU6QWMIprjqL2",
+    "name" : "Persona 1",
+    "phone" : "111",
+    "position" : "admin",
+    "avatar": "" 
+  },
+  "ZlhNvJosBEhrINKOEMZm8WkNWO73" : {
+    "address" : "address222",
+    "avatar" : "https://firebasestorage.googleapis.com/v0/b/hydra-proinvestec.appspot.com/o/users%2FZlhNvJosBEhrINKOEMZm8WkNWO73?alt=media&token=2febecd9-40b0-404b-b0a8-b56f9364a513",
+    "email" : "persona2@iqbit.ec",
+    "id" : "ZlhNvJosBEhrINKOEMZm8WkNWO73",
+    "name" : "Persona 2",
+    "phone" : "222",
+    "position" : "user"
+  },
+  "lVTtIc5gZFXIyYIm8XXkxEysko03" : {
+    "address" : "address333",
+    "avatar" : "https://firebasestorage.googleapis.com/v0/b/hydra-proinvestec.appspot.com/o/users%2FlVTtIc5gZFXIyYIm8XXkxEysko03?alt=media&token=0f588d5a-ed80-4fb6-a662-e37473302ca2",
+    "email" : "persona3@iqbit.ec",
+    "id" : "lVTtIc5gZFXIyYIm8XXkxEysko03",
+    "name" : "Persona 3",
+    "phone" : "3333",
+    "position" : "user"
+  },
+  "84388700153047484344" : {
+    "address" : "address444",
+    "avatar" : "https://firebasestorage.googleapis.com/v0/b/hydra-proinvestec.appspot.com/o/users%2FlVTtIc5gZFXIyYIm8XXkxEysko03?alt=media&token=0f588d5a-ed80-4fb6-a662-e37473302ca2",
+    "email" : "persona4@iqbit.ec",
+    "id" : "84388700153047484344",
+    "name" : "Persona 4",
+    "phone" : "444",
+    "position" : "admin"
+  }
+}
