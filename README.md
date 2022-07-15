@@ -67,22 +67,7 @@ Una vez en el respectivo directorio ejecutamos el siguiente comando para abrir v
 code .
 ```
 
-Antes de poder ejecutar el programa se debe instalar las dependencias. Por lo que se procede abrir la consola de visual studio (ctrl + ñ) y se ejecuta el siguiente comando
 
-```sh
-composer install
-```
-
-Buscar el archivo de configuracion de laravel en el directorio de la aplicacion. El archivo tiene el nombre **.env.example**,   copiar toda la informacion dentro de este  y crear un nuevo archivo con el nombre **.env** y pegar la información. Al final deberia tener un archivo .env.example y otro .env .
-
-![image](https://user-images.githubusercontent.com/74793607/179316468-13f51832-cb3e-48e9-8e53-0743954fab03.png)
-
-
-A continuacion, correr el siguiente comando para generar la clave secreta.
-
-```sh
-php artisan key:generate
-```
 
 Por ultimo ejecutar el comando para iniciar el servidor
 
