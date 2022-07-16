@@ -83,19 +83,27 @@ Si todos los pasos fueron ejecutados correctamente no se presentara ningun probl
 - EN el caso que desee mostrar todos los datos mediante la api solo vaya a la siguiente direccion. 
 
 [api](http://127.0.0.1:8000/api/user)
+![image](https://user-images.githubusercontent.com/74793607/179326403-eeda2eeb-39ee-4535-ba11-6f2cc3a07b74.png)
+
 
 
 - Para el primer punto, sin eliminar el url actual añadir la siguiente direccion y modificar "?" por el id que desea buscar.
 
+
 ```sh
 /api/user/?
 ```
+
+![image](https://user-images.githubusercontent.com/74793607/179326439-7b8866f1-0081-493b-9563-2442bc9d4dcf.png)
+
 
 - Para el segundo punto, sin eliminar el url original añadir la siguiente direccion y modificar "?" por el puesto(position) que desea buscar.
 
 ```sh
 /api/users/?
 ```
+![image](https://user-images.githubusercontent.com/74793607/179326453-2ac35a68-b681-4501-999b-ba61c3c82075.png)
+
 
 Gracias👍.
 
